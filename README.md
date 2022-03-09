@@ -1,7 +1,7 @@
 # ME-ACP
 The offical code of paper :ME-ACP: Multi-view Neural Networks with Ensemble Model for Identification of Anticancer Peptides.  
 
-cross_val.py is utilized for ACP740 and ACP240 datasets, and indenpendent.py is for Main and Alternate dataset  
+cross_val.py is utilized for ACP740 and ACP240 datasets, and independent.py is for Main and Alternate dataset  
 
 1、feature extraction  
    >peptide level features should be extracted by http://bioinformatics.hitsz.edu.cn/BioSeq-Analysis/download.  
